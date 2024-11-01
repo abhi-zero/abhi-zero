@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/@abhi__2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhi__2911" height="30" width="40" /></a>
 <a href="https://instagram.com/ab.hi__29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab.hi__29" height="30" width="40" /></a>
-<a href="https://www.freecodecamp.org/abhi0zero" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/70107528?s=200&v=4" alt="abhi0zero" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/abhi0zero" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.82YwuuaWdR7gvN4O0MpTTwHaFC?rs=1&pid=ImgDetMain" alt="abhi0zero" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
