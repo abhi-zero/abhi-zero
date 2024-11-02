@@ -16,7 +16,7 @@
 <a href="https://www.freecodecamp.org/abhi0zero" target="blank" title="Learn front-end development by creating projects"><img align="center" src="https://th.bing.com/th/id/OIP.82YwuuaWdR7gvN4O0MpTTwHaFC?rs=1&pid=ImgDetMain" alt="abhi0zero" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/abhi-zero" target="blank" title="Codewar is a platform for practicing Programing languages."><img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="abhi-zero" height="30" width="40" /></a>
 <a href="https://www.frontendmentor.io/profile/abhi-zero" target="blank" title="Frontend Mentor is a platform for practicing HTML and CSS with projects."><img align="center" src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="abhi-zero" height="30" width="40" /></a>
-<a href="https://cssbattle.dev/player/abhi0zero" target="blank" title="CSS Battles"><img align="center" src="https://avatars.githubusercontent.com/u/48940969?s=280&v=4" alt="@abhi0zero" height="30" width="40" /></a>
+<a href="https://cssbattle.dev/player/abhi0zero" target="blank" title="CSS Battles"><img align="center" src="https://avatars.githubusercontent.com/u/48940969?s=280&v=4" alt="@abhi0zero" height="30" width="30" /></a>
 </p>
 
 
