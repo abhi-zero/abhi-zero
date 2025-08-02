@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-zero&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-zero" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **REACT**
 
 - 📫 How to reach me **abhi.0zero@gmail.com**
 
