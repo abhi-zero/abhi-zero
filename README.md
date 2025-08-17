@@ -1,30 +1,54 @@
-<h1 align="center">Hi 👋, I'm Abhi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I’m Abhi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-zero&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-zero" /> </p>
+### A Frontend Enthusiast learning & building cool projects!
 
-- 🌱 I’m currently learning **REACT**
+I’m passionate about turning ideas into **interactive web experiences**. Currently sharpening my skills in **React**, **Redux**, **React Router**, and **Tailwind CSS**, alongside my foundation in **HTML**, **CSS**, and **JavaScript**.
 
-- 📫 How to reach me **abhi.0zero@gmail.com**
+---
 
-- ⚡ Fun fact **I think i'm Funny**
+## 💻 Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@abhi__2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhi__2911" height="30" width="40" /></a>
-<a href="https://instagram.com/ab.hi__29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab.hi__29" height="30" width="40" /></a>
-<a href="https://www.freecodecamp.org/abhi0zero" target="blank" title="Learn front-end development by creating projects"><img align="center" src="https://th.bing.com/th/id/OIP.82YwuuaWdR7gvN4O0MpTTwHaFC?rs=1&pid=ImgDetMain" alt="abhi0zero" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/abhi-zero" target="blank" title="Codewar is a platform for practicing Programing languages."><img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="abhi-zero" height="30" width="40" /></a>
-<a href="https://www.frontendmentor.io/profile/abhi-zero" target="blank" title="Frontend Mentor is a platform for practicing HTML and CSS with projects."><img align="center" src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="abhi-zero" height="30" width="40" /></a>
-<a href="https://cssbattle.dev/player/abhi0zero" target="blank" title="CSS Battles"><img align="center" src="https://avatars.githubusercontent.com/u/48940969?s=280&v=4" alt="@abhi0zero" height="30" width="30" /></a>
-</p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## 🚀 Current Focus
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-zero&show_icons=true&locale=en&layout=compact" alt="abhi-zero" /></p>
+- Building small-to-intermediate projects to strengthen React and Redux knowledge  
+- Practicing responsive design and modern UI patterns  
+- Learning best practices in component-based architecture
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-zero&show_icons=true&locale=en" alt="abhi-zero" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-zero&" alt="abhi-zero" /></p>
+## ⚡ Fun Facts
+
+- Can be **introverted or extroverted** depending on the vibe 😎  
+- Keep a **curious & fun approach** to learning and coding  
+- Love experimenting with new frontend techniques  
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-bhatti-52a39b325/)  
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-000?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/abhi-zero)  
+[![CodePen](https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/abhi-zero)
+
+---
+
+## 📊 GitHub Stats
+
+![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi-zero&show_icons=true&theme=radical)
+
+---
+
+*“Learning by doing — one project at a time.”* 💻✨
